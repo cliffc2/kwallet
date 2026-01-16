@@ -10,7 +10,7 @@ pub struct Wallet {
 }
 
 pub struct WalletConfig {
-    pub derivation_path: String,
+    pub derivationpath: String,
 }
 
 impl Wallet {
